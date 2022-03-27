@@ -267,16 +267,5 @@ img {
 
 #home-e .wedo {
   display: flex; }
-  #home-e .wedo-img {
-    margin-right: 1rem; }
-  #home-e .wedo-item {
-    width: 50%;
-    position: relative;
-    flex-direction: column; }
-    #home-e .wedo-item i {
-      top: 0;
-      left: 0;
-      position: absolute; }
-    #home-e .wedo-item h2 {
-      display: block;
-      padding: 30px; }
+  #home-e .wedo-items {
+    width: 50%; }
